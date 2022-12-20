@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421826749197",
+    "project_id": "unet-base",
+    "storage_bucket": "unet-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421826749197:android:d0c9f42437053e36ee4644",
+        "android_client_info": {
+          "package_name": "hilworking.unetapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421826749197-lgiv5sm0urej24k7p354kna6s1ocaiqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDux5EpyvpOS7kP4PyKo5BK3jBt2DY5TgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421826749197-lgiv5sm0urej24k7p354kna6s1ocaiqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
